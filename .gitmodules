@@ -1,0 +1,3 @@
+[submodule "ranger_udisk_menu"]
+	path = ranger_udisk_menu
+	url = git@github.com:SL-RU/ranger_udisk_menu.git
